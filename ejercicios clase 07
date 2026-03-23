@@ -1,0 +1,26 @@
+Ejercicio N°1 - Identificación de componentes UI.
+Página web escogida: Google.
+Componentes principales: 
+- Header: parte superior derecha, contiene enlaces a Gmail, Imágenes y más aplicaciones.
+- Navegación: esquina superior, el acceso a la cuenta de usuario y configuraciones.
+- Área Principal: centro de la página, tiene el logotipo de Google y una barra de búsqueda.
+- Botones y Formularios: cuadro de texto para escribir la búsqueda y los botones de "Buscar con Google" y "Voy a tener suerte".
+- Footer: parte inferior en la página y contiene enlaces informativos.
+Como estos componentes facilitan la interacción del usuario:
+- Jerarquía Visual: posición central de la barra de búsqueda indican que es lo más importante.
+- Simplicidad: al tener el área principal casi vacía con solo una barra de búsqueda, se sabe inmediatamente qué debe hacer sin distracciones.
+- Consistencia: el uso de botones estándar y un diseño limpio permite que cualquier persona entienda cómo interactuar con el sistema.
+- Claridad: tanto los iconos como el textos en el header y footer son directos, evitando confusiones sobre a dónde llevan los enlaces.
+
+Ejercicio N°2 - Análisis de jerarquía visual.
+Observar una interfaz web: en google.com la interfaz tiene un fondo blanco predominante y elementos específicos y concetros en el centro y las esquinas.
+Identificar qué elementos llaman primero la atención: siguiente el orden, es el siguiente:
+- El logotipo de Google.
+- La barra de búsqueda.
+- Los botones.
+- Elementos del header y footer.
+Explicar por qué, según principios de jerarquía visual:
+- Tamaño y posición: área principal que ocupa el centro de la pantalla, donde el usuario enfoca su atención de forma natural al cargar una página.
+- Colores y contraste: el fondo es neutro (blanco), el logotipo utiliza colores primarios para destacar.
+- Tipografía: Los textos en los botones y menús son cortos y legibles, lo que facilita una comprensión inmediata de las funciones.
+- Espaciado: tiene espacio vacío alrededor de la barra de búsqueda, se elimina cualquier distracción, forzando al usuario a mirar el elemento de interacción principal.
